@@ -11,3 +11,7 @@ boxplot(cooperation ~ condition, data = Guyer,
         ylab = "Cooperation")
 
 # Some new comment
+
+# The above comment is important for the following reason ...
+
+# Some important changes need to be made here.
